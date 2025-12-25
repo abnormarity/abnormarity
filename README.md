@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=7F9CF5&center=true&vCenter=true&width=450&lines=you+are+now+connected!;hello,+i'm+mara+^_^" />
+</p>
 
-<!--
-**abnormarity/abnormarity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> ordinary student; into computers, fragmented thoughts, and quiet nights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about
+i like code not because it works,  
+but because it reveals how things break.
+
+---
+
+## currently
+- learning how computers really work
+- gaining proficiency in languages like  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120"/>
+- overthinking quietly
+
+---
+
+<details>
+  <summary><b>fun fact</b></summary>
+
+  i'm not actually a CS/IT student,      
+  i just take random courses and pretend i know what i'm doing       
+  (◡‿◡ *)
+</details>
