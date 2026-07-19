@@ -14,9 +14,7 @@ but because it reveals how things break!
 
 ## currently
 - learning how computers really work
-- gaining proficiency in languages like  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-  alt="JavaScript Logo"
-  width="64"
+- gaining proficiency in languages like  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>
 />
 <p>JavaScript</p>
 - crashing out
