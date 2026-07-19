@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=7F9CF5&center=true&vCenter=true&width=450&lines=you+are+now+connected!;hello,+i'm+mara+^_^" />
 </p>
 
@@ -14,7 +14,11 @@ but because it reveals how things break!
 
 ## currently
 - learning how computers really work
-- gaining proficiency in languages like  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120"/>
+- gaining proficiency in languages like  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+  alt="JavaScript Logo"
+  width="64"
+/>
+<p>JavaScript</p>
 - crashing out
 
 ---
