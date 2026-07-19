@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=7F9CF5&center=true&vCenter=true&width=450&lines=you+are+now+connected!;hello,+i'm+mara+^_^" />
 </p>
 
-<p align="center"> ordinary student; into computers, fragmented thoughts, and quiet nights
+<p align="center"> ordinary student; larping vscode
 
 ---
 
