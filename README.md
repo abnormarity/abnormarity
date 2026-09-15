@@ -7,8 +7,7 @@
 ---
 
 ## about
-i like code not because it works,  
-but because it reveals how things break!
+i like codes because it looks cool
 
 ---
 
