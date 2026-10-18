@@ -2,7 +2,7 @@
 
   <samp>ABNORMARITY / PERSONAL DEV ARCHIVE</samp>
 
-  # `MARA.exe`
+  # `abnormarity`
 
   <samp>ordinary student. professional VS Code larper.</samp>
 
@@ -16,17 +16,17 @@
 
 ### `01 / whoami`
 
-not a CS student. just a curious human with an IDE, questionable sleep schedules, and an unhealthy interest in making things work.
+interested in technology, grade 5 Algonova. manifesting for PTN <3
 
 ### `02 / currently running`
 
-- learning how computers actually work
+- designing webs & apps
 - getting better at Python, JavaScript & C#
 - experimenting with computer vision
 - making things because they look cool
-- debugging things I may or may not have broken myself
+- debugging
 
-### `03 / tech i've touched`
+### `03 / langs i've touched`
 
 ![Python](https://img.shields.io/badge/Python-111511?style=flat-square&logo=python&logoColor=83b891)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111511?style=flat-square&logo=javascript&logoColor=83b891)
@@ -40,20 +40,6 @@ not a CS student. just a curious human with an IDE, questionable sleep schedules
 >
 > i keep coding because now i need to know why it doesn't work.
 
-### `05 / fun fact`
-
-i'm not actually a CS/IT student.
-
-i just take random courses and pretend i know what i'm doing.
-
-`¯\_(ツ)_/¯`
-
----
-
-<div align="center">
-  <samp>END OF FILE // MORE EXPERIMENTS LOADING...</samp>
-</div>
----
 
 <details>
   <summary><b>fun fact</b></summary>
@@ -62,3 +48,8 @@ i just take random courses and pretend i know what i'm doing.
   i just take random courses and pretend i know what i'm doing       
   (◡‿◡ *)
 </details>
+
+<div align="center">
+  <samp>END OF FILE // MORE EXPERIMENTS LOADING...</samp>
+</div>
+---
