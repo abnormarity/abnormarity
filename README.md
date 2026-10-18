@@ -4,7 +4,7 @@
 
   # `(„• ֊ •„)`
 
-  <samp>average student. VSC larper.</samp>
+  <samp>average student - VSC larper</samp>
 
   <br>
 
@@ -15,8 +15,7 @@
 ---
 
 ### `01 / whoami`
-
-interested in technology, studying grade 5 in Algonova. manifesting for PTN <3
+IDN jhs student, studying grade 5 in Algonova. manifesting for PTN <3
 
 ### `02 / currently running`
 
