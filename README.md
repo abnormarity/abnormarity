@@ -1,8 +1,8 @@
 <div align="center">
 
-  <samp>ABNORMARITY / PERSONAL DEV ARCHIVE</samp>
+  <samp>ABNORMARITY / PERSONAL ARCHIVE</samp>
 
-  # `abnormarity`
+  # `(„• ֊ •„)`
 
   <samp>ordinary student. professional VS Code larper.</samp>
 
@@ -50,6 +50,6 @@ interested in technology, grade 5 Algonova. manifesting for PTN <3
 </details>
 
 <div align="center">
-  <samp>END OF FILE // MORE EXPERIMENTS LOADING...</samp>
+  <samp>END OF FILE // EXPERIMENTS ON PROGRESS...</samp>
 </div>
 ---
