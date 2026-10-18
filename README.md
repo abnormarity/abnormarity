@@ -1,19 +1,19 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=7F9CF5&center=true&vCenter=true&width=450&lines=you+are+now+connected!;hello,+i'm+mara+^_^" />
-</p>
+# hello, i'm mara.
 
-<p align="center"> ordinary student; larping vscode
+> an ongoing collection of experiments, unfinished ideas, and things I made because I wondered if I could.
 
----
+## / ABOUT_THIS_USER
+Currently learning programming, experimenting with Python and JavaScript, and occasionally making computers do things they weren't asked to do.
 
-## about
-i like codes because it looks cool
+## / CURRENT_INTERESTS
+- Python
+- JavaScript
+- Computer Vision
+- AI experiments
+- Digital art
 
----
-
-## currently
-- learning how computers really work
-- gaining proficiency in languages like  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>
+## / SYSTEM_NOTE
+*not an expert. just curious enough to keep opening the terminal.*> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>
 - vibe code
 - crashing out
 
