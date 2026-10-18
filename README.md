@@ -4,11 +4,11 @@
 
   # `(„• ֊ •„)`
 
-  <samp>ordinary student. professional VS Code larper.</samp>
+  <samp>average student. VSC larper.</samp>
 
   <br>
 
-  <img src="https://img.shields.io/badge/status-confused%20out-83b891?style=flat-square&labelColor=111511" alt="Current status">
+  <img src="https://img.shields.io/badge/status-coding%20(nangis)-83b891?style=flat-square&labelColor=111511" alt="Current status">
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### `01 / whoami`
 
-interested in technology, grade 5 Algonova. manifesting for PTN <3
+interested in technology, studying grade 5 in Algonova. manifesting for PTN <3
 
 ### `02 / currently running`
 
