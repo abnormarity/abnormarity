@@ -8,7 +8,7 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/status-still%20figuring%20things%20out-83b891?style=flat-square&labelColor=111511" alt="Current status">
+  <img src="https://img.shields.io/badge/status-confused%20out-83b891?style=flat-square&labelColor=111511" alt="Current status">
 
 </div>
 
